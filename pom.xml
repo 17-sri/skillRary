@@ -139,7 +139,6 @@
 			<version>2.18.0-rc1</version>
 		</dependency>
 
-
 	</dependencies>
 	<build>
 		<pluginManagement>
@@ -155,7 +154,6 @@
 					</configuration>
 				</plugin>
 			</plugins>
-
 		</pluginManagement>
 	</build>
 </project>
