@@ -11,5 +11,5 @@
 			<class name="testCases.TC003_LogoutTest" />
 			<class name="testCases.TC004_AddnewcourseTest" />
 		</classes>
-	</test> <!--Test -->
-</suite> <!--Suite -->
+	</test> 
+</suite> 
